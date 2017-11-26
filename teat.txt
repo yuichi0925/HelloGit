@@ -1,2 +1,4 @@
 hello git!
-変更してみたよ
+Edit test!
+branch test!
+
